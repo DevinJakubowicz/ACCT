@@ -1,0 +1,18 @@
+.gallery-container {
+	width: 90%;
+	margin: 0 auto;
+}
+
+.gallery-item {
+	width: 25%;
+	float: left;
+}
+
+.gallery-item img {
+	width: 100%;
+	float: left;
+}
+
+.gallery-item ul {
+	clear: both;
+}
