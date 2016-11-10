@@ -49,19 +49,26 @@ h3{
 	background-color: red;
 }
 
-.gallery-item {
+.gallery-pic {
 	box-sizing: border-box;
-	width: 25%;
+	background-size: contain;
+	background-repeat: no-repeat;
+	width: 200px;
+	height: 200px;
 	padding: 5px;
-	float: left;
+	/*float: left;*/
 }
 
-.gallery-item img {
+#cat1 {
+	background-image: url(../images/sylvester.jpg);
+}
+
+/*.gallery-item img {
 	width: 100%;
 	float: left;
-}
+}*/
 
-.gallery-item ul {
+.animal-details {
 	float: left;
 	clear: both;
 	list-style-type: none;
@@ -69,6 +76,6 @@ h3{
 	margin: 2px 0;
 }
 
-.gallery-item li {
+.animal-details li {
 	margin: 0;
 }
