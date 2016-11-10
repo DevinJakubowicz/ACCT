@@ -1,3 +1,24 @@
+img	{
+	width: 30%;
+	margin: 0 auto;
+}
+
+h1 {
+	color:red;
+
+}
+
+h3{
+	color: lightblue;
+
+}
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+}
+
+
 .logo {
 	float: left;
 	display: inline;
