@@ -1,7 +1,13 @@
-img	{
-	width: 30%;
+.bannerpic {
 	margin: 0 auto;
+	background-image: url("http://www.acctphilly.org/wp-content/uploads/2015/04/Banner-acctphilly-home1.jpg?a32ecf");
+	background-size: contain;
+	width: 900px;
+	height: 600px;
+	background-repeat: no-repeat;
+
 }
+
 
 h1 {
 	color:red;
