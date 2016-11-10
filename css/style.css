@@ -1,0 +1,32 @@
+
+
+
+.logo {
+	float: left;
+	display: inline;
+	width: 25%;
+}
+
+.ul-nav {
+	float: right;
+	width: 70%;
+	margin-top: 30px;
+	
+}
+
+.ul-nav li {
+	display: inline-block;
+	background-color: orange;
+	margin: 5px;
+	padding: 15px 20px;
+
+}
+
+.ul-nav a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.take-action {
+	background-color: red;
+}
