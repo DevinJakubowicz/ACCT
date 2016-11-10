@@ -8,7 +8,6 @@
 	clear:both;
 }
 
-
 h1 {
 	color:red;
 
@@ -42,7 +41,7 @@ h3{
 	display: inline-block;
 	background-color: orange;
 	margin: 5px;
-	padding: 15px 20px;
+	padding: 15px 15px;
 
 }
 
@@ -52,7 +51,7 @@ h3{
 }
 
 .take-action {
-	background-color: red;
+	background-color: firebrick;
 }
 
 .gallery-item {
