@@ -24,7 +24,7 @@ h3{
 }
 
 body {
-	background-color: #D7D8D4
+	background-color: #D7D8D4;
 }
 
 .container {
@@ -123,5 +123,5 @@ body {
 
 .animal-details li {
 	margin: 0;
-	font-size: 18spx;
+	font-size: 18px;
 }
