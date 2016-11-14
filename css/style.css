@@ -24,7 +24,7 @@ h3{
 }
 
 body {
-	background-color: #D7D8D4
+	background-color: #D7D8D4;
 }
 
 .container {
@@ -59,7 +59,7 @@ body {
 	background-image: url(https://pbs.twimg.com/profile_images/378800000532546226/dbe5f0727b69487016ffd67a6689e75a_400x400.jpeg);
 	background-size: contain;
 	background-repeat: no-repeat;
-	display: inline-block
+	display: inline-block;
 }
 
 
@@ -88,12 +88,6 @@ body {
 	text-decoration: none;
 	color: #000000;
 }
-
-.ul-fixed-nav li {
-	display: inline-block;
-	background-color: orange;
-	margin: 5px;
-	padding: 15px 15px;
 	
 }
 
@@ -133,14 +127,5 @@ body {
 .animal-details li {
 	margin: 0;
 	font-size: 18px;
-}
 
-.fixed-nav-bar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 9999;
-  width: 100%;
-  height: 50px;
-  background-color: #00a087;
 }
