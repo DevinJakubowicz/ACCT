@@ -57,13 +57,11 @@ body {
 	text-decoration: none;
 	color: #000000;
 }
-	
-}
-
 
 .take-action {
 	background-color: firebrick;
 }
+
 .pet-type-header {
 	display: block;
 	float: left;
