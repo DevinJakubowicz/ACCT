@@ -32,43 +32,9 @@ body {
 	margin: 0 auto;
 }
 
-/*.cat-and-dog {
-	width: 300px;
-	height: 300px;
-	background-image: url(http://images.mentalfloss.com/sites/default/files/styles/article_640x430/public/157653954.jpg);
-	background-size: contain;
-	margin: 20px;
-	background-repeat: no-repeat;
-	display: inline-block;
-	float: left;
-}
-
-.husky {
-	width: 300px;
-	height: 300px;
-	margin: 20px;
-	background-image: url(https://s-media-cache-ak0.pinimg.com/736x/a7/38/ce/a738ceec705d4cb698eb9840818fe4d4.jpg);
-	background-size: contain;
-	background-repeat: no-repeat;
-	display: inline-block;
-	float: left;
-}
-
-.cat-with-tie {
-	width: 300px;
-	height: 300px;
-	margin: 20px;
-	background-image: url(https://pbs.twimg.com/profile_images/378800000532546226/dbe5f0727b69487016ffd67a6689e75a_400x400.jpeg);
-	background-size: contain;
-	background-repeat: no-repeat;
-	display: inline-block;
-	float: left;
-}
-*/
-
 .logo {
 	float: left;
-	display: inline;
+	display: inline-block;
 	width: 25%;
 }
 
@@ -105,9 +71,10 @@ body {
 	background-color: orange;
 }
 
-.home-animals-container img {
-	width: 25%;
-
+.home-footer img {
+	box-sizing: border-box;
+	width: 33%;
+	padding: 5px;
 }
 
 .pet-type-header h2 {
