@@ -28,7 +28,7 @@ body {
 }
 
 .container {
-	width: 100%;
+	width: 98%;
 	margin: 0 auto;
 }
 
@@ -40,26 +40,29 @@ body {
 	margin: 20px;
 	background-repeat: no-repeat;
 	display: inline-block;
+	float: left;
 }
 
 .husky {
 	width: 300px;
 	height: 300px;
-	margin: 50px;
+	margin: 20px;
 	background-image: url(https://s-media-cache-ak0.pinimg.com/736x/a7/38/ce/a738ceec705d4cb698eb9840818fe4d4.jpg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	display: inline-block;
+	float: left;
 }
 
 .cat-with-tie {
 	width: 300px;
 	height: 300px;
-	margin: 70px;
+	margin: 20px;
 	background-image: url(https://pbs.twimg.com/profile_images/378800000532546226/dbe5f0727b69487016ffd67a6689e75a_400x400.jpeg);
 	background-size: contain;
 	background-repeat: no-repeat;
 	display: inline-block;
+	float: left;
 }
 
 
@@ -99,11 +102,16 @@ body {
 	width: 100%;
 	height: 60px;
 	text-align: center;
-	background-color: yellow;
+	background-color: orange;
+}
+
+.home-animals-container img {
+	width: 25%;
+
 }
 
 .pet-type-header h2 {
-	
+	color: black;
 }
 
 .gallery-item img {
